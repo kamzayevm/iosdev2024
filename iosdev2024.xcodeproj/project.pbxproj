@@ -1,0 +1,261 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 77;
+	objects = {
+
+/* Begin PBXFileReference section */
+		C64A27DD2CC8331A00D28A93 /* task1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = task1.swift; sourceTree = "<group>"; };
+		C64A27DE2CC8332400D28A93 /* assignment2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = assignment2.swift; sourceTree = "<group>"; };
+		C64A27DF2CC8332B00D28A93 /* task3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = task3.swift; sourceTree = "<group>"; };
+		C64A27E02CC8333A00D28A93 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		C64A27E12CC8333A00D28A93 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		C64A27E22CC8333A00D28A93 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C64A27E32CC8333A00D28A93 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		C64A27E52CC8333A00D28A93 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		C64A27E72CC8333A00D28A93 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
+		C64A27E82CC8333A00D28A93 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		C64A27EA2CC8333A00D28A93 /* Dice.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; path = Dice.xcodeproj; sourceTree = "<group>"; };
+		C64A27EC2CC8333A00D28A93 /* alarm_sound.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = alarm_sound.mp3; sourceTree = "<group>"; };
+		C64A27ED2CC8333A00D28A93 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		C64A27EE2CC8333A00D28A93 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		C64A27EF2CC8333A00D28A93 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C64A27F02CC8333A00D28A93 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		C64A27F22CC8333A00D28A93 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		C64A27F42CC8333A00D28A93 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
+		C64A27F52CC8333A00D28A93 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		C64A27F72CC8333A00D28A93 /* eggtimer.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; path = eggtimer.xcodeproj; sourceTree = "<group>"; };
+		C64A27F92CC8333A00D28A93 /* A.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = A.wav; sourceTree = "<group>"; };
+		C64A27FA2CC8333A00D28A93 /* B.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = B.wav; sourceTree = "<group>"; };
+		C64A27FB2CC8333A00D28A93 /* C.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = C.wav; sourceTree = "<group>"; };
+		C64A27FC2CC8333A00D28A93 /* D.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = D.wav; sourceTree = "<group>"; };
+		C64A27FD2CC8333A00D28A93 /* E.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = E.wav; sourceTree = "<group>"; };
+		C64A27FE2CC8333A00D28A93 /* F.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = F.wav; sourceTree = "<group>"; };
+		C64A27FF2CC8333A00D28A93 /* G.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = G.wav; sourceTree = "<group>"; };
+		C64A28012CC8333A00D28A93 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		C64A28022CC8333A00D28A93 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		C64A28032CC8333A00D28A93 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C64A28042CC8333A00D28A93 /* LaunchScreen.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = LaunchScreen.storyboard; sourceTree = "<group>"; };
+		C64A28052CC8333A00D28A93 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		C64A28072CC8333A00D28A93 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
+		C64A28082CC8333A00D28A93 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		C64A280A2CC8333A00D28A93 /* Xylophone.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; path = Xylophone.xcodeproj; sourceTree = "<group>"; };
+		C64A281D2CC835BF00D28A93 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		C64A281E2CC835D100D28A93 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		C64A28202CC8369500D28A93 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+		C64A27D62CC8330500D28A93 = {
+			isa = PBXGroup;
+			children = (
+				C64A27DD2CC8331A00D28A93 /* task1.swift */,
+				C64A27DE2CC8332400D28A93 /* assignment2.swift */,
+				C64A27DF2CC8332B00D28A93 /* task3.swift */,
+				C64A27EB2CC8333A00D28A93 /* Dicee */,
+				C64A280B2CC8333A00D28A93 /* xylophonee */,
+				C64A27F82CC8333A00D28A93 /* Egg */,
+			);
+			sourceTree = "<group>";
+		};
+		C64A27E92CC8333A00D28A93 /* Dice */ = {
+			isa = PBXGroup;
+			children = (
+				C64A27E02CC8333A00D28A93 /* AppDelegate.swift */,
+				C64A27E12CC8333A00D28A93 /* Assets.xcassets */,
+				C64A27E22CC8333A00D28A93 /* Info.plist */,
+				C64A27E42CC8333A00D28A93 /* LaunchScreen.storyboard */,
+				C64A27E62CC8333A00D28A93 /* Main.storyboard */,
+				C64A27E72CC8333A00D28A93 /* SceneDelegate.swift */,
+				C64A27E82CC8333A00D28A93 /* ViewController.swift */,
+			);
+			path = Dice;
+			sourceTree = "<group>";
+		};
+		C64A27EB2CC8333A00D28A93 /* Dicee */ = {
+			isa = PBXGroup;
+			children = (
+				C64A27E92CC8333A00D28A93 /* Dice */,
+				C64A27EA2CC8333A00D28A93 /* Dice.xcodeproj */,
+				C64A28202CC8369500D28A93 /* README.md */,
+			);
+			path = Dicee;
+			sourceTree = "<group>";
+		};
+		C64A27F62CC8333A00D28A93 /* eggtimer */ = {
+			isa = PBXGroup;
+			children = (
+				C64A27EC2CC8333A00D28A93 /* alarm_sound.mp3 */,
+				C64A27ED2CC8333A00D28A93 /* AppDelegate.swift */,
+				C64A27EE2CC8333A00D28A93 /* Assets.xcassets */,
+				C64A27EF2CC8333A00D28A93 /* Info.plist */,
+				C64A27F12CC8333A00D28A93 /* LaunchScreen.storyboard */,
+				C64A27F32CC8333A00D28A93 /* Main.storyboard */,
+				C64A27F42CC8333A00D28A93 /* SceneDelegate.swift */,
+				C64A27F52CC8333A00D28A93 /* ViewController.swift */,
+			);
+			path = eggtimer;
+			sourceTree = "<group>";
+		};
+		C64A27F82CC8333A00D28A93 /* Egg */ = {
+			isa = PBXGroup;
+			children = (
+				C64A27F62CC8333A00D28A93 /* eggtimer */,
+				C64A27F72CC8333A00D28A93 /* eggtimer.xcodeproj */,
+				C64A281E2CC835D100D28A93 /* README.md */,
+			);
+			path = Egg;
+			sourceTree = "<group>";
+		};
+		C64A28002CC8333A00D28A93 /* Sounds */ = {
+			isa = PBXGroup;
+			children = (
+				C64A27F92CC8333A00D28A93 /* A.wav */,
+				C64A27FA2CC8333A00D28A93 /* B.wav */,
+				C64A27FB2CC8333A00D28A93 /* C.wav */,
+				C64A27FC2CC8333A00D28A93 /* D.wav */,
+				C64A27FD2CC8333A00D28A93 /* E.wav */,
+				C64A27FE2CC8333A00D28A93 /* F.wav */,
+				C64A27FF2CC8333A00D28A93 /* G.wav */,
+			);
+			path = Sounds;
+			sourceTree = "<group>";
+		};
+		C64A28092CC8333A00D28A93 /* Xylophone */ = {
+			isa = PBXGroup;
+			children = (
+				C64A28002CC8333A00D28A93 /* Sounds */,
+				C64A28012CC8333A00D28A93 /* AppDelegate.swift */,
+				C64A28022CC8333A00D28A93 /* Assets.xcassets */,
+				C64A28032CC8333A00D28A93 /* Info.plist */,
+				C64A28042CC8333A00D28A93 /* LaunchScreen.storyboard */,
+				C64A28062CC8333A00D28A93 /* Main.storyboard */,
+				C64A28072CC8333A00D28A93 /* SceneDelegate.swift */,
+				C64A28082CC8333A00D28A93 /* ViewController.swift */,
+			);
+			path = Xylophone;
+			sourceTree = "<group>";
+		};
+		C64A280B2CC8333A00D28A93 /* xylophonee */ = {
+			isa = PBXGroup;
+			children = (
+				C64A28092CC8333A00D28A93 /* Xylophone */,
+				C64A280A2CC8333A00D28A93 /* Xylophone.xcodeproj */,
+				C64A281D2CC835BF00D28A93 /* README.md */,
+			);
+			path = xylophonee;
+			sourceTree = "<group>";
+		};
+		C64A280C2CC8333A00D28A93 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXProject section */
+		C64A27D72CC8330500D28A93 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastUpgradeCheck = 1600;
+			};
+			buildConfigurationList = C64A27DA2CC8330500D28A93 /* Build configuration list for PBXProject "iosdev2024" */;
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = C64A27D62CC8330500D28A93;
+			minimizedProjectReferenceProxies = 1;
+			preferredProjectObjectVersion = 77;
+			projectDirPath = "";
+			projectReferences = (
+				{
+					ProductGroup = C64A280C2CC8333A00D28A93 /* Products */;
+					ProjectRef = C64A27F72CC8333A00D28A93 /* eggtimer.xcodeproj */;
+				},
+			);
+			projectRoot = "";
+			targets = (
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXVariantGroup section */
+		C64A27E42CC8333A00D28A93 /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				C64A27E32CC8333A00D28A93 /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+		C64A27E62CC8333A00D28A93 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				C64A27E52CC8333A00D28A93 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		C64A27F12CC8333A00D28A93 /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				C64A27F02CC8333A00D28A93 /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+		C64A27F32CC8333A00D28A93 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				C64A27F22CC8333A00D28A93 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		C64A28062CC8333A00D28A93 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				C64A28052CC8333A00D28A93 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		C64A27DB2CC8330500D28A93 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Debug;
+		};
+		C64A27DC2CC8330500D28A93 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		C64A27DA2CC8330500D28A93 /* Build configuration list for PBXProject "iosdev2024" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				C64A27DB2CC8330500D28A93 /* Debug */,
+				C64A27DC2CC8330500D28A93 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = C64A27D72CC8330500D28A93 /* Project object */;
+}
